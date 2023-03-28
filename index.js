@@ -73,7 +73,7 @@ const generateMarkdown = ({ title, description, license, test ,install, userName
 3. [Contributions](#contributions)
 3. [License](#license)
 4. [Tests](#tests)
-5. [Questions](#authors%20and%20acknowledgment)
+5. [Questions](#Questions)
 
 ---
 ## About

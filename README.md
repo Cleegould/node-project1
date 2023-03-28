@@ -1,6 +1,6 @@
-# Chris
+# Node Project Readme Generator
 
-  Gould
+  This will help create a readme file for a project quick and easy!
 
   [object Object]
   
@@ -13,19 +13,19 @@
 3. [Contributions](#contributions)
 3. [License](#license)
 4. [Tests](#tests)
-5. [Questions](#authors%20and%20acknowledgment)
+5. [Questions](#Questions)
 
 ---
 ## About
 
 ---
 ## Usage
-    YES
+    After install run node index and answer the following questions
 
 ---
 
 ## Installation:
-  So
+  node index
 
   ---
 
@@ -36,15 +36,15 @@
 
 ## Contributing:
 
-    NO
+    Contributions can be made via github.  review will be made before approval
   
 ---
 
 ## Tests:
-  MAybe
+  jest, trial and error
 
 ---
 
 ## Questions
-* GitHub Username: CLEE
-* Email: Goud
+* GitHub Username: Cleegould
+* Email: Cleegould@gmail.com
